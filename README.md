@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Design: https://autumn-dev.tistory.com/
+- ArtWork: https://autumn-dev.tistory.com/
 
 
 <!--
