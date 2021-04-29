@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Design: https://autumn-dev.tistory.com/
+
+
 <!--
 **HSHyeon/HSHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
