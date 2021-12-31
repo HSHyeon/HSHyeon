@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Artwork: https://autumn-dev.tistory.com/
-##### UIUX: 1. https://www.behance.net/gallery/121056975/PAS
+##### UIUX: https://www.behance.net/gallery/121056975/PAS
 
 
 <!--
