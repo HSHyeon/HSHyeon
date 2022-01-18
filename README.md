@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-IT공학전공이며 시각영상디자인과를 복수전공하고 있습니다.
-Artwork: https://autumn-dev.tistory.com/
+##### IT공학전공이며 시각영상디자인과를 복수전공하고 있습니다.
+##### Artwork: https://autumn-dev.tistory.com/
 
 <!--
 **HSHyeon/HSHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
