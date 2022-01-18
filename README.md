@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📚 숙명여자대학교 IT공학전공이며, 시각영상디자인과를 복수전공하고 있습니다.  
-   >  blog : https://autumn-dev.tistory.com/  
+     >>  blog : https://autumn-dev.tistory.com/  
    > 
 
 
