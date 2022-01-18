@@ -4,6 +4,8 @@
    -  blog : https://autumn-dev.tistory.com/  
    -  behance : https://www.behance.net/hongsohyun1a80  
      
+       
+         
 🤔 안드로이드와 UIUX 기획,디자인에 관심을 가지고 공부 중입니다.
 
 
