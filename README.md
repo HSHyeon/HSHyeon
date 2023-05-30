@@ -2,6 +2,7 @@
 
 📚 IT공학전공이며, 시각영상디자인과를 복수전공했습니다.  
 > blog :[ https://autumn-dev.tistory.com/  ](https://autumn-dev.tistory.com/12)
+> 
 > behance : https://www.behance.net/hongsohyun1a80
 
 
