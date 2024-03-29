@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 📚 IT공학전공이며, 시각영상디자인과를 복수전공했습니다.  
-> Tistory Blog :[ https://autumn-dev.tistory.com/  ](https://autumn-dev.tistory.com/12)  
-> Github Glog : [https://hshyeon.github.io/](https://hshyeon.github.io/)
+> Tistory :[ https://autumn-dev.tistory.com/  ](https://autumn-dev.tistory.com/12)  
+> Github : [https://hshyeon.github.io/](https://hshyeon.github.io/)
 
 
  
